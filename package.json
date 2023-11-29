@@ -1,0 +1,20 @@
+{
+  "name": "backend_guvi",
+  "version": "1.0.0",
+  "description": "a simple web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharunkumarva/Backend_Guvi.git"
+  },
+  "author": "Tharun Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharunkumarva/Backend_Guvi/issues"
+  },
+  "homepage": "https://github.com/Tharunkumarva/Backend_Guvi#readme"
+}
